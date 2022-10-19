@@ -1,4 +1,2 @@
-<?php echo "hola mundo" 
-$today=date('Y');
-?>
+<?php echo "hola mundo, its me" ?>
 
